@@ -9,7 +9,7 @@
     "build:gif": "remotion render Root AIResearchSkillsPromo out/promo.gif"
   },
   "dependencies": {
-    "@remotion/cli": "^4.0.468",
+    "@remotion/cli": "^4.0.539",
     "@remotion/google-fonts": "^4.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
